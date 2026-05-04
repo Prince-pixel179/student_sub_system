@@ -1,0 +1,41 @@
+ git init
+  481  ssh-keygen -t ed25519  -C "Lesedimos@gmail.com"
+  482  clear
+  483   ssh-keygen -t ed25519  -C "Lesedimos45@gmail.com"
+  484  cd /0409105176088/.ssh/id_ed25519
+  485  ls
+  486  cd ~
+  487  cd /0409105176088/.ssh/id_ed25519
+  488  cd .ssh/id_ed25519
+  489  ssh keygen --help
+  490  ssh --help
+  491  clear
+  492  git init
+  493  clear
+  494  git clone git@github.com:londeka-z/student_sub_system.git
+  495  git int
+  496  git init
+  497  git clone git@github.com:londeka-z/student_sub_system.git
+  498  ssh-keygen ed25519 "Lesedimos45@gmail.com"
+  499  ssh-keygen -f ed25519 "Lesedimos45@gmail.com"
+  500  clear
+  501  ls
+  502  clear
+  503  git clone https://github.com/londeka-z/student_sub_system.git
+  504  ls
+  505  cd student_sub_system
+  506  code .
+  507  touch index.html && about.html
+  508  clear
+  509  touch index.html
+  510  touch about.html
+  511  touch history.txt
+  512  clear
+  513  git commit -m "created files index, about and history"
+  514  clear
+  515  git add .
+  516  git commit -m "created files index, about and history"
+  517  clear
+  518  nano history.txt
+  519  history
+
