@@ -1,0 +1,100 @@
+  clear
+  416  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  417  ssh-keygen --help
+  418  cd
+  419  cd documents
+  420  cd
+  421  cd ..
+  422  git status
+  423  git init clear
+  424  git init
+  425  ssh-keygen -t ed25519  -C "Lesedimos@gmail.com"
+  426  clear
+  427   ssh-keygen -t ed25519  -C "Lesedimos45@gmail.com"
+  428  cd /0409105176088/.ssh/id_ed25519
+  429  ls
+  430  cd ~
+  431  cd /0409105176088/.ssh/id_ed25519
+  432  cd .ssh/id_ed25519
+  433  ssh keygen --help
+  434  ssh --help
+  435  clear
+  436  git init
+  437  clear
+  438  git clone git@github.com:londeka-z/student_sub_system.git
+  439  git push
+  440  git remote -v
+  441  git pull origin  https://github.com/Prince-pixel179/student_sub_system.git
+  442  ls -l
+  443  cd ~
+  444  cd Desktop
+  445  ls -l
+  446  cd student_sub_system
+  447  ls
+  448  cd ..
+  449  ls
+  450  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com
+  451  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  452  ls -l
+  453  cd ..
+  454  ls -l
+  455  --help
+  456  hepl
+  457  help
+  458  clear
+  459  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com
+  460  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  461  cd ~
+  462  cd /c/Users/0409105176088/.ssh/id_ed25519)
+  463  cd c/Users/0409105176088/.ssh/id_ed25519)
+  464  cd 0409105176088/.ssh/id_ed25519)
+  465  cd .ssh/id_ed25519)
+  466  cd ssh/id_ed25519)
+  467  cd /.ssh/id_ed25519)
+  468  ls -l
+  469  (/c/Users/0409105176088/.ssh/id_ed25519)
+  470  c/Users/0409105176088/.ssh/id_ed25519)
+  471  clear
+  472  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  473  ls-l
+  474  ls
+  475  cd Desktop
+  476  ls
+  477  clear
+  478  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  479  ssh-keygen -t ed25519 -C "Lesedimos45@gmail.com"
+  480  cd c/Users/0409105176088/.ssh/id_ed25519.pub
+  481  cd /.ssh/id_ed25519.pub
+  482  cd~
+  483  cd ~
+  484  ls -l
+  485  ssh help
+  486  ssh guide
+  487  cat ~/.ssh/id_ed25519.pub
+  488  ssh test
+  489  ssh ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEEzIaKdmn5YEV7YlmqxG/jcf8GVNavLq8J2G4UNnmCr Lesedimos45@gmail.com
+  490  clear
+  491  ssh man
+  492  man ssh
+  493  man
+  494  manual
+  495  clear
+  496  help
+  497  clear
+  498  git log
+  499  git status
+  500  git clone git@github.com:Prince-pixel179/student_sub_system.git
+  501  ls -l
+  502  cd student_sub_system/
+  503  clear
+  504  touch index.html
+  505  touch about.html
+  506  touch history.txt
+  507  ls -l
+  508  git add .
+  509  git commit -m "created files"
+  510  clear
+  511  nano history.txt
+  512  clear
+  513  history
+
